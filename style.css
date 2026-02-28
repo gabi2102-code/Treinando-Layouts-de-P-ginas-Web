@@ -1,27 +1,23 @@
 body{
-    background-color: rgb(96, 96, 253);
-    padding: 50px;
-    margin: 0px;
+    background-color: rgb(192, 95, 171);
 }
-
 .yo{
-    background-color: rgb(136, 61, 234);
-    padding: 200px;
-    padding-bottom: 100px;
-    margin: 50px;
+    padding: 130;
+    margin: 30;
+     background-color: rgb(192, 95, 171);
 }
-
 .flex{
     display: flex;
-    
 }
 
-.baixo{
-    padding-bottom:50 ;
+.purple{
+    padding-bottom: 670px;
+    background-color: rgb(225, 175, 235);
 }
-
-.extender{
-    padding-right: 50px;
+.pink{
+    padding-bottom: 350;
+    margin-top: 40;
+    background-color: rgb(192, 95, 171);
 }
 
 
